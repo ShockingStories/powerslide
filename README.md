@@ -8,6 +8,8 @@ See current greenhouse gas emissions and costs from the energy sector in New Zea
 
 ## Video
 
+[![View Powerslide GovHack entry submission video](http://img.youtube.com/vi/KOwfCuPDoyA/0.jpg)](http://www.youtube.com/watch?v=KOwfCuPDoyA)
+
 ## Team
 
 <ul>
